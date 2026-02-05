@@ -27,7 +27,22 @@
 }
 
 #t5 {
-    backgroud-Color: yellow; 
+    background-color: yellow
+}
+
+#t6 {
+    font-weight: bold;
+}
+
+#t7 {
+    font-weight: bold ;
+}
+
+#t8 {
+    font-style ;
+    underline;
+}
+
 }
    
 
