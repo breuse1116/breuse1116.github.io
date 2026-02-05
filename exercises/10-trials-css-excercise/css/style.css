@@ -1,7 +1,34 @@
-h2 {
-    font-style: 
-    color: green;
-    
-#p1 
-    color: #f711f7
+#t1 {
+    color:green;
 }
+
+#t2-s1 {
+    color: #F711f7;
+}
+
+#t2-s2 {
+    color: #F711f7;
+}
+
+#t3-s1 {
+    color: red;
+}
+
+#t3-s2 {
+    color: goldenrod
+}
+
+#t3-s3 {
+    color:blue;
+}
+
+#t4 {
+    background-color: skyblue;
+}
+
+#t5 {
+    backgroud-Color: yellow; 
+}
+   
+
+    
