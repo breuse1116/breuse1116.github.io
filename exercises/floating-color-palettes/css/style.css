@@ -1,2 +1,25 @@
-
+.color-palette {
+    box-shadow: 6px 6px 12px; #989898;
+    text-align: center;
+    margin: 24px;
+    padding: 24px;
 }
+.
+.color {
+    margin: 0px;
+    padding: 24px;
+}
+
+#c1-p1{
+    background-color:  #F2C1D1
+}
+
+#c1-p2 {
+    background-color: #241e4e;
+    color: white;
+}
+
+#c1-p3 {
+    background-color: #eadaa2;
+}
+
