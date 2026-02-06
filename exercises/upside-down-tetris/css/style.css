@@ -1,0 +1,42 @@
+#container {
+    width: 500px;
+    min-height: 100vh;
+    background-color: rgb(9, 9, 10);
+    font-size: 0px;
+}
+
+.block {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
+.lightblue {
+    background-color: blue;
+    border: 10px outset;
+    offwhite;
+}
+
+.maroon {
+    background-color: red;
+    border: 10px outset;
+    offwhite;
+}
+
+.deeporange {
+    background-color: yellow;
+    border: 10px outset;
+    offwhite;
+}
+
+
+.huntergreen {
+    background-color: limegreen;
+    border: 10px outset;
+    offwhite;
+}
+    
+
+
+
