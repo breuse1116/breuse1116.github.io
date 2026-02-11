@@ -1,4 +1,17 @@
-#sidebar{
-    background-color: #3333333;
-    
+#sidebar {
+    background-color: #333333;
+    color:white;
+    width: 500px;
+    min-height: 100vh;
+    padding: 24px
 }
+
+*/ ALL CSS Rules MUST include the "sidebar" id in them.
+
+#chapter {
+    font-bold 24px;
+}
+
+#edit [
+    font-weight: 24px;
+]
