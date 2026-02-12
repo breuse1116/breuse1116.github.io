@@ -1,0 +1,21 @@
+#morning {
+background-color: aquamarine;
+padding: 25px;
+margin: 50px;
+}
+#morning .completed {
+    text-decoration: line-through;
+}
+
+#afternoon {
+    background-color: lightyellow;
+    padding: 25px;
+    margin: 50px;
+     
+}
+#evening {
+    background-color: lightblue;
+    padding: 25px;
+    margin: 50px
+}
+
