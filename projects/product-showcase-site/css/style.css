@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Lora:ital,wght@0,400..700;1,400..700&family=Playwrite+AT:ital,wght@0,100..400;1,100..400&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Archivo", sans-serif;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    margin: 0px;
+}
+
+.single-column {
+    width: 50%;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+.light-container {
+    background-color: maroon;
+    padding: 48px 0px;
+}
+
+.dark-container {
+    background-color: whitesmoke;
+    color: black;
+    padding: 48px;
+}
+
+.medium-container {
+    background-color:#0e3326;
+    padding: 48px 0px;
+
+.btn {
+    font-family: "Archivo", sans-serif;
+    text-decoration-style: solid ;
+    background-color: gray;
+    padding: 10px 30px;
+    display: inline-block;
+    color: whitesmoke;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px #1115;
+    border: 2px solid #black;
+    transition: background-color 0.5s, color 0.5s;
+}
+
+.btn.alt {
+    background-color: transparent;
+    border-color: #darkgray;
+    color: #gray;
+}
+
+.btn:hover {
+    background-color: ;
+    color: #whitesmoke
+;
+}
