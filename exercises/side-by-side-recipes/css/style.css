@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.centered-single-column {
+    display:flex;
+}
+img {
+    width: 300px;
+    object-fit: cover;
+}
+.single-column {
+    margin: 0px auto;
+    width: 90%;
+    max-width: 1200px:
+}
+}
