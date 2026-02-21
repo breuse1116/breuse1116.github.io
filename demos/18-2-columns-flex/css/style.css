@@ -11,3 +11,60 @@ img {
     object-fit: cover;
 }
 /* Resets Above */
+
+.sinlge-column {
+    width: 90%;
+    max-width: 1280px;
+    margin: 25px auto;
+}
+
+.two-columns {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.sidebar {
+    order: 2;
+    width: 250px;
+}
+
+.sidebar h2{
+    background-color: darkblue;
+    margin: 0;
+    padding: 15px;
+    color: white;
+    font-sixe: 18px;
+}
+
+.sidebar a {
+    text-decoration: none;
+    color: black;
+}
+
+.sidebar ul {
+    background-color: lightgray;
+    border: 1px solid darkgray;
+    list-style-type: none;
+    padding: 0px 15px;
+}
+
+.sidebar li {
+    padding: 10px 0px;
+    border-bottom: 1px solid gray;
+}
+
+.sidebar li: last-child {
+    border: 0px;
+}
+
+.main {
+    order: 1;
+    flex: 1;
+    max-width: 650px;
+}
+
+
+
+
+
