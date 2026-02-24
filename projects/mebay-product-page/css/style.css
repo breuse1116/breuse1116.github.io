@@ -1,0 +1,44 @@
+/* Resets Below */
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+#layout {
+    display:flex;
+}
+header {
+    text-align: center;
+}
+
+img {
+    width: 70%;
+    display:flex;
+    margin-left: auto;
+    padding: 50px;
+}
+
+.thumbnail-column {
+    width: 25px;
+    margin-right;
+}
+.p {
+    padding 20%;
+    vertical-align: baseline;
+}
+
+featured-image-column {
+    margin-right
+    height: 25px;
+    padding: 20px;
+    background-color: white;
+    border: solid black;
+    text-align: center;
+}
+
+.product-info-column {
+    text-align: :justify;
+}
+/* Resets Above */
