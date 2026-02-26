@@ -1,0 +1,60 @@
+/* Resets Below */
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.single-column {
+    background-image: url("../images/football-field_907-430-min.png");
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: top;
+    text-align: center;
+    color: black;
+
+.invitation {
+    width: 75vh;
+    height: auto;
+    background-color: white;
+    color: darkgreen;
+}
+
+.card1 {
+    display: flex;
+    background-image: url(../images/eagleslogo.jpg);
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+    padding: 50px;
+    text-decoration-color: black;
+    text-align: top;
+    border: solid black;
+    justify-content: baseline;
+}
+
+.card2 {
+    display: flex;
+    backgoround-image: url(../images/GB\ packerslogo.jpg);
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+    padding:
+    text-decoration-color: black;
+    text-align: top;
+    border: solid black;
+    justify-content: end;
+}
+
+}
+}
+/* Resets Above */
