@@ -36,6 +36,19 @@ img {
 #product-info-column {
 }
 .btn {
-    background-color: aliceblue;
+    background-color: blue;
 }
+
+.btn {
+    text-decoration: none;
+    background-color: blue
+    padding: 10px 30px;
+    display: inline-block;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px #1115;
+    border: 2px solid navy;
+    transition: background-color 0.5s, color 0.5s;
+}
+
 
