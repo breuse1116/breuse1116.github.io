@@ -7,38 +7,35 @@ body {
     font-family: sans-serif;
 }
 #layout {
-    display:flex;
+    width: 89%;
+    max-width: 1280px;
+    margin: 0px auto;
+}
+.three-column {
+    display: flex;
+    gap: 50px;
 }
 header {
     text-align: center;
 }
 
 img {
-    width: 70%;
-    display:flex;
-    margin-left: auto;
-    padding: 50px;
+    width: 100%;
 }
 
-.thumbnail-column {
-    width: 25px;
-    margin-right;
-}
-.p {
-    padding 20%;
-    vertical-align: baseline;
+#thumbnail-column {
+    width: 250px;
 }
 
-featured-image-column {
-    margin-right
-    height: 25px;
+#featured-image-column {
     padding: 20px;
-    background-color: white;
-    border: solid black;
+    border: 2px solid black;
     text-align: center;
 }
 
-.product-info-column {
-    text-align: :justify;
+#product-info-column {
+}
+.btn {
+    background-color: aliceblue;
 }
 
