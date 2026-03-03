@@ -1,0 +1,57 @@
+/* Resets Below */
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+}
+header nav {
+    background-color: gray;
+    color: white;
+    text-decoration: white;
+    background-color: black
+    display: inline-block;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px #1115;
+    border: 2px solid 
+    transition: background-color 0.5s, color 0.5s;
+}
+
+#centered-hero {
+    background-image: url("../images/urban-hi-res-2nse.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.content h1{
+    font-size: 50px;
+    margin: 0px;
+    color: white;   
+}
+.btn {
+    text-decoration: white;
+    background-color: black;
+    padding: 10px 30px;
+    display: inline-block;
+    color: #fff;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px #1115;
+    border: 2px solid black;
+    transition: background-color 0.5s, color 0.5s;
+}
+.btn:hover {
+    background-color: gray;;
+    color: transparent;
+
+
+/* Resets Above */
